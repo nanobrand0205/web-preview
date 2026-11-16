@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "climate",
+    "file": "series-climate.html",
+    "group": "恒温恒湿試験機",
+    "en": "CONSTANT TEMPERATURE & HUMIDITY",
+    "hero": "assets/images/official/00d5c32f8d_futabafuroa_photo.webp",
+    "headline": "温度と湿度を、\n試験条件に合わせて。",
+    "intro": "温湿度を組み合わせた試験を検討する方向けのシリーズ案内です。旧公式のFutabaやTPCY、Big Boxなど、カタログ掲載型式へ進めます。",
+    "source": "https://www.isuzuseisakusho.co.jp/lineup/midori/",
+    "highlights": [
+      "Futaba各形態、TPCY、Big Boxなどの旧公式掲載群を継承",
+      "省電力モデル「みどりシリーズ」の考え方を別途継承",
+      "正式仕様と型式ごとの現行性は顧客確認後に確定"
+    ]
+  },
+  {
+    "slug": "industrial",
+    "file": "series-industrial.html",
+    "group": "産業用恒温試験機",
+    "en": "INDUSTRIAL TEMPERATURE CHAMBERS",
+    "hero": "assets/images/official/506f0620a2_vtfh_photo.webp",
+    "headline": "温度とワークの条件から、\n産業用恒温試験を考える。",
+    "intro": "ワーク、熱処理、試験槽容量などの条件に応じて比較を始められる案内です。VTRL、VTRH、VTHH、VTFP、VTFHのカタログ掲載型式へ進めます。",
+    "source": "https://www.isuzuseisakusho.co.jp/lineup/dryingovens/",
+    "highlights": [
+      "VTRL / VTRH / VTHH / VTFP / VTFHの掲載群を継承",
+      "旧公式では機種ごとの内容積と温度範囲が示されている",
+      "用途により仕様が分かれるため、個別条件を確認して選定"
+    ]
+  },
+  {
+    "slug": "constant",
+    "file": "series-constant.html",
+    "group": "恒温試験機",
+    "en": "CONSTANT TEMPERATURE TEST CHAMBERS",
+    "hero": "assets/images/official/115dceac69_wakabayokonaga_photo.webp",
+    "headline": "小さな試験条件にも、\n確かな選択肢を。",
+    "intro": "Aoba、Wakaba、Sakuraなどの小型恒温試験機を探す方向けの案内です。旧公式の特徴を継承し、シリーズ・型式の比較へつなぎます。",
+    "source": "https://www.isuzuseisakusho.co.jp/lineup/hlc/",
+    "highlights": [
+      "Aoba縦型・Wakaba横長・Sakuraデスクトップの既存構成を継承",
+      "旧公式では再現性や校正を重視した小型試験機として紹介",
+      "Aoba／Wakabaの表記・旧あおばの現行区分は確認待ち"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "総合製品カタログ 2026",
+    "note": "標準製品・製品形態・コントローラ・仕様の一覧",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2026/05/Product_Catalog_2026_web.pdf",
+    "kind": "catalog",
+    "date": "2026"
+  },
+  {
+    "name": "会社案内 Corporate Mind",
+    "note": "いすゞ製作所の考え方と事業の紹介",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2021/09/isuzu_corporate-mind_web2021.pdf",
+    "kind": "company",
+    "date": "2021"
+  },
+  {
+    "name": "充放電試験機 パンフレット",
+    "note": "充放電試験機の製品紹介",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2023/08/juuhouden_230817.pdf",
+    "kind": "product",
+    "date": "2023"
+  },
+  {
+    "name": "産業用恒温試験機 パンフレット",
+    "note": "産業用恒温試験機の製品紹介",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2023/08/sangyouyou.pdf",
+    "kind": "product",
+    "date": "2023"
+  },
+  {
+    "name": "Aoba・Wakaba パンフレット",
+    "note": "小型恒温試験機のご紹介",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2023/01/AobaWakaba_2023.pdf",
+    "kind": "product",
+    "date": "2023"
+  },
+  {
+    "name": "Futaba パンフレット",
+    "note": "恒温恒湿試験機のご紹介",
+    "link": "https://www.isuzuseisakusho.co.jp/wp-content/uploads/2023/08/futaba.pdf",
+    "kind": "product",
+    "date": "2023"
+  }
+]

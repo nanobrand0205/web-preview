@@ -1,0 +1,22 @@
+{
+  "edition": "A17_OFFICIAL_BRANDING_REVIEW",
+  "as_of": "2026-11-02",
+  "state": "INTERNAL_DESIGN_REVIEW_NOT_APPROVED",
+  "source_version": "A16.1",
+  "files": {
+    "official_corporate_logo": {
+      "path": "assets/images/branding/isuzu-cap-corporate-original.png",
+      "source_drive_file_id": "19pVRzY--HDs5EUDFih2t3jh6Pb-hmZX3",
+      "source_url": "https://drive.google.com/file/d/19pVRzY--HDs5EUDFih2t3jh6Pb-hmZX3/view",
+      "dimensions": "502x54",
+      "sha256": "8bc9a9e666d39e7426c9628a7e95d7ef3d6db2be1d78102f0cd739d9f82afd1f"
+    },
+    "jqa_iso9001": {
+      "path": "assets/images/branding/iso9001-jqa-original.gif",
+      "source_drive_file_id": "1h-FRi-JDi4Rsito07---gEyNs6WSJjRF",
+      "source_url": "https://drive.google.com/file/d/1h-FRi-JDi4Rsito07---gEyNs6WSJjRF/view",
+      "dimensions": "90x150",
+      "sha256": "f393423fe038434697c650a68c15e83216eb727db0b67f83268ed81fa763ed2f"
+    }
+  }
+}

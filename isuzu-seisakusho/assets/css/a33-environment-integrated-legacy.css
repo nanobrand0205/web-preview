@@ -1,0 +1,21 @@
+/* A33: integrate content from outgoing legacy articles into sustainability.html */
+.page-sustainability .env-legacy-detail{margin-top:72px;padding-top:43px;border-top:1px solid var(--env-line);scroll-margin-top:110px}
+.page-sustainability .env-legacy-detail .env-heading{max-width:900px}
+.page-sustainability .env-legacy-detail h3{font-size:clamp(23px,2.2vw,31px)!important}
+.page-sustainability .env-legacy-detail h4{font-size:18px;line-height:1.6;margin:0 0 17px;color:var(--env-ink)}
+.page-sustainability .env-legacy-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.page-sustainability .env-legacy-columns article{background:#fff;border:1px solid var(--env-line);padding:26px 24px}
+.page-sustainability .env-legacy-columns p{font-size:14px;line-height:2}
+.page-sustainability .env-legacy-comparison{background:#fff;border:1px solid var(--env-line);padding:34px;margin:26px 0}
+.page-sustainability .env-legacy-comparison-head{margin-bottom:26px}
+.page-sustainability .env-legacy-comparison-head p{font-size:14px}
+.page-sustainability .env-bar-item{display:grid;grid-template-columns:188px 1fr 82px;gap:18px;align-items:center;margin:22px 0}
+.page-sustainability .env-bar-item strong,.page-sustainability .env-bar-item span{display:block;font-size:14px}
+.page-sustainability .env-bar-item span{font-size:11px;color:#66777c}
+.page-sustainability .env-bar-item b{font-size:20px;font-variant-numeric:tabular-nums}
+.page-sustainability .env-bar-meter{height:18px;border-radius:2px;background:#e6ebec;overflow:hidden}
+.page-sustainability .env-bar-meter i{display:block;height:100%;background:#2d7480}
+.page-sustainability .env-legacy-footnote{border-left:3px solid #668a94;padding:18px 28px;background:#eaf1f2}
+.page-sustainability .env-legacy-footnote p{font-size:13px}
+@media(max-width:900px){.page-sustainability .env-legacy-columns{grid-template-columns:1fr}}
+@media(max-width:600px){.page-sustainability .env-legacy-detail{margin-top:45px;padding-top:28px}.page-sustainability .env-legacy-columns article{padding:20px}.page-sustainability .env-legacy-comparison{padding:20px 16px}.page-sustainability .env-bar-item{grid-template-columns:1fr 58px;gap:9px}.page-sustainability .env-bar-item>div:first-child{grid-column:1/-1}.page-sustainability .env-bar-meter{height:15px}.page-sustainability .env-legacy-footnote{padding:16px}}

@@ -1,0 +1,191 @@
+[
+  {
+    "key": "hero",
+    "file": "00d5c32f8d_futabafuroa_photo.webp",
+    "source_drive_archive_name": "00d5c32f8d_futabafuroa_photo.jpg",
+    "raw_sha256": "c5533517ae1944e9dbb73703082a5a2a093de3b6ce65131fc08a429ea843209c",
+    "optimized_size_bytes": 20880
+  },
+  {
+    "key": "climate",
+    "file": "00d5c32f8d_futabafuroa_photo.webp",
+    "source_drive_archive_name": "00d5c32f8d_futabafuroa_photo.jpg",
+    "raw_sha256": "c5533517ae1944e9dbb73703082a5a2a093de3b6ce65131fc08a429ea843209c",
+    "optimized_size_bytes": 20880
+  },
+  {
+    "key": "industrial",
+    "file": "506f0620a2_vtfh_photo.webp",
+    "source_drive_archive_name": "506f0620a2_vtfh_photo.jpg",
+    "raw_sha256": "4c50d9a263ad628d9b6ef769fb767070867bff19e9e64957791063db10ffccaa",
+    "optimized_size_bytes": 12602
+  },
+  {
+    "key": "compact",
+    "file": "115dceac69_wakabayokonaga_photo.webp",
+    "source_drive_archive_name": "115dceac69_wakabayokonaga_photo.jpg",
+    "raw_sha256": "05bad918326acfd14540d67a32bdfd03bcc715a5403d152bb04058c181add664",
+    "optimized_size_bytes": 13460
+  },
+  {
+    "key": "custom",
+    "file": "c761d20c03_customize-_image01.webp",
+    "source_drive_archive_name": "c761d20c03_customize-_image01.jpg",
+    "raw_sha256": "9fd004d1869f21af2e2443708d339ae1e0fd0a4840bf7a88a6c651fe059b4adc",
+    "optimized_size_bytes": 30092
+  },
+  {
+    "key": "custom2",
+    "file": "e80e06e8da_customize-_image02.webp",
+    "source_drive_archive_name": "e80e06e8da_customize-_image02.jpg",
+    "raw_sha256": "0412da78f019cc1352cde1bfdd77e3f9692ead6372be7792cc0281e798a16bd2",
+    "optimized_size_bytes": 28218
+  },
+  {
+    "key": "custom3",
+    "file": "a1448f15e2_customize-_image03.webp",
+    "source_drive_archive_name": "a1448f15e2_customize-_image03.jpg",
+    "raw_sha256": "fe42885ef357cff513636e4b8c39fd568a5dcb6b8b799d83fa1c483d292f9d32",
+    "optimized_size_bytes": 25590
+  },
+  {
+    "key": "custom4",
+    "file": "24129b634e_customize-_image04.webp",
+    "source_drive_archive_name": "24129b634e_customize-_image04.jpg",
+    "raw_sha256": "cdbabb1e6269ce7e9cd84e37064c748e8b9dc943d9f6ca381ecf91947bfb762a",
+    "optimized_size_bytes": 16592
+  },
+  {
+    "key": "process1",
+    "file": "fe54b8961a_image21_sp.webp",
+    "source_drive_archive_name": "fe54b8961a_image21_sp.png",
+    "raw_sha256": "9fb46aab10252cb9e7f520da6fb1d34d84a11aceab7fb0cb6640be0a2e2406c8",
+    "optimized_size_bytes": 24832
+  },
+  {
+    "key": "process2",
+    "file": "18a9eed557_koutei02_image01_sp.webp",
+    "source_drive_archive_name": "18a9eed557_koutei02_image01_sp.png",
+    "raw_sha256": "c993747811406fc050d0d9bceae30e276d42a7f2a575b06801eac11288b0c386",
+    "optimized_size_bytes": 43610
+  },
+  {
+    "key": "process4",
+    "file": "0b633a04de_koutei04_image01.webp",
+    "source_drive_archive_name": "0b633a04de_koutei04_image01.jpg",
+    "raw_sha256": "fe09a286906f153c03c304715eec497700b46d3eb3466094270b59904c8b7600",
+    "optimized_size_bytes": 10516
+  },
+  {
+    "key": "process5",
+    "file": "898b0ff6de_koutei05_image01_sp.webp",
+    "source_drive_archive_name": "898b0ff6de_koutei05_image01_sp.png",
+    "raw_sha256": "2201d543b0fff6791019b571886a190f073eeb0f75ad1dbc2e245b5cc05108f8",
+    "optimized_size_bytes": 36862
+  },
+  {
+    "key": "process6",
+    "file": "74602c9c41_koutei06_image01_sp.webp",
+    "source_drive_archive_name": "74602c9c41_koutei06_image01_sp.png",
+    "raw_sha256": "ae53ef4ebe917cad5edf84122e530e05ff025c6897959f3617f4eb5a38608de3",
+    "optimized_size_bytes": 35308
+  },
+  {
+    "key": "process7",
+    "file": "3364855557_koutei07_image01_sp.webp",
+    "source_drive_archive_name": "3364855557_koutei07_image01_sp.png",
+    "raw_sha256": "e2e66438daffb870302a6ff143acab372291b672a5ca9f8311465010e9d9b008",
+    "optimized_size_bytes": 35494
+  },
+  {
+    "key": "process9",
+    "file": "7ea2842720_koutei09_image01_sp.webp",
+    "source_drive_archive_name": "7ea2842720_koutei09_image01_sp.png",
+    "raw_sha256": "02ba47d66d8b260837491595ddac66c65ea88836eccfbac320e608314ce6cdd9",
+    "optimized_size_bytes": 33490
+  },
+  {
+    "key": "process10",
+    "file": "a789756b42_koutei10_image01_sp.webp",
+    "source_drive_archive_name": "a789756b42_koutei10_image01_sp.png",
+    "raw_sha256": "96f3f59f32d0810937fda852324c14923436472abb5b90e62047d83bcb9ef2ad",
+    "optimized_size_bytes": 29470
+  },
+  {
+    "key": "aoba",
+    "file": "61dc6db3c5_aobatategata_new_photo.webp",
+    "source_drive_archive_name": "61dc6db3c5_aobatategata_new_photo.jpg",
+    "raw_sha256": "f82aeba66042936bf135659d4bb6e7735a2cb45f36bdcb3a5a62007330258502",
+    "optimized_size_bytes": 11988
+  },
+  {
+    "key": "sakura",
+    "file": "a62c719fb3_sakura_photo.webp",
+    "source_drive_archive_name": "a62c719fb3_sakura_photo.jpg",
+    "raw_sha256": "b35f7da00b59808e0a32afa5b975698b5a0fb4202a90f60e48479738f739b6c9",
+    "optimized_size_bytes": 12150
+  },
+  {
+    "key": "eco",
+    "file": "bc4ec3e87e_saving_sp.webp",
+    "source_drive_archive_name": "bc4ec3e87e_saving_sp.png",
+    "raw_sha256": "d450901f7dcf72accd1d645c4f7100653dee45a1468d09b889f41f51fd704b96",
+    "optimized_size_bytes": 33862
+  },
+  {
+    "key": "history",
+    "file": "ceadd15da8_photo_hist_sp.webp",
+    "source_drive_archive_name": "ceadd15da8_photo_hist_sp.jpg",
+    "raw_sha256": "c4b7fbb80de0de5523298404008861435b3e93c98fb2e2b11b5d402cba805a6c",
+    "optimized_size_bytes": 90666
+  },
+  {
+    "key": "green",
+    "file": "dffd77ed5a_midori_sp.webp",
+    "source_drive_archive_name": "dffd77ed5a_midori_sp.png",
+    "raw_sha256": "37cda56e8a47b67cb7c856a260b66a2f568657dea48480970b356847cb42d02f",
+    "optimized_size_bytes": 17582
+  },
+  {
+    "key": "people",
+    "file": "c3022f326d_mainvisual.webp",
+    "source_drive_archive_name": "c3022f326d_mainvisual.jpg",
+    "raw_sha256": "b1c72493e767a9a8e0342b91e0708703c33255523f7bb160379a88d038339f6f",
+    "optimized_size_bytes": 179000
+  },
+  {
+    "key": "people1",
+    "file": "41199384c3_main-takizawa-1.webp",
+    "source_drive_archive_name": "41199384c3_main-takizawa-1.jpg",
+    "raw_sha256": "7f72c9819af036dd3cbef4ec1c60c18a4c89fceea9b2604110b41c86c5662c9a",
+    "optimized_size_bytes": 143684
+  },
+  {
+    "key": "people2",
+    "file": "fbaac03eb8_main-tanabe-1.webp",
+    "source_drive_archive_name": "fbaac03eb8_main-tanabe-1.jpg",
+    "raw_sha256": "4ce66e597f5c3e300166e5f6a9dd12975f71f7e31e05513939b4aa0e2a3cea1d",
+    "optimized_size_bytes": 139344
+  },
+  {
+    "key": "people3",
+    "file": "876f0b3074_main-suzuki.webp",
+    "source_drive_archive_name": "876f0b3074_main-suzuki.jpg",
+    "raw_sha256": "00df81eb18247f7a8cda0518db993ca6569e77bce31f69924ca6738be0d29331",
+    "optimized_size_bytes": 87452
+  },
+  {
+    "key": "support",
+    "file": "8d7c49e25b_vt_photo.webp",
+    "source_drive_archive_name": "8d7c49e25b_vt_photo.jpg",
+    "raw_sha256": "39844ad6687e32796d54498f04284ae4c227ef79d54774a1bcb206410a7aa210",
+    "optimized_size_bytes": 2882
+  },
+  {
+    "key": "furnace",
+    "file": "0eaf0a6b0b_vtds_photo.webp",
+    "source_drive_archive_name": "0eaf0a6b0b_vtds_photo.jpg",
+    "raw_sha256": "8c3f5140efbcdeb2f60fc3e8e394a5f4a4cc7e0b26b344f60607f37b4b6b98da",
+    "optimized_size_bytes": 14536
+  }
+]

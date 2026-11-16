@@ -1,0 +1,119 @@
+[
+  {
+    "key": "hero",
+    "file": "hero.webp",
+    "catalog_printed_page": 11,
+    "catalog_pdf_page": 13,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      254,
+      325
+    ],
+    "sha256": "4322927ecaa108f00b809120a1718d4e79c805a02489e63b7a18767bde06d4b5",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "product1",
+    "file": "product1.webp",
+    "catalog_printed_page": 10,
+    "catalog_pdf_page": 12,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      230,
+      258
+    ],
+    "sha256": "356790ad08602f9f7b2d473f8a9e81f236fb3816189eb7b9ef8f05edabdc7d69",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "product2",
+    "file": "product2.webp",
+    "catalog_printed_page": 24,
+    "catalog_pdf_page": 26,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      461,
+      335
+    ],
+    "sha256": "9170ddffad3277351ba928fd0fb4977c2f9284465e34ebf1414012695b897a96",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "product3",
+    "file": "product3.webp",
+    "catalog_printed_page": 32,
+    "catalog_pdf_page": 34,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      237,
+      296
+    ],
+    "sha256": "eb513fe2a73b7fa4834465e137fa5c497d941a1f9df4cc67cf90a286342287c1",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "lineup",
+    "file": "lineup.webp",
+    "catalog_printed_page": 12,
+    "catalog_pdf_page": 14,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      336,
+      293
+    ],
+    "sha256": "e886cdfc4cf38dba460bf45c9ffdb7c88886222cdeb4d9ce33602483529ba7b3",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "bigbox",
+    "file": "bigbox.webp",
+    "catalog_printed_page": 14,
+    "catalog_pdf_page": 16,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      370,
+      310
+    ],
+    "sha256": "056fb593714777718dfc80e22aac171cb4fce254db17de9a4663c1cf151822b7",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "industrial2",
+    "file": "industrial2.webp",
+    "catalog_printed_page": 26,
+    "catalog_pdf_page": 28,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      408,
+      312
+    ],
+    "sha256": "3bc3b12bac1d68a33fce48f4181e109875ad9374c2e135735b540cde37ab35cd",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "compact",
+    "file": "compact.webp",
+    "catalog_printed_page": 36,
+    "catalog_pdf_page": 38,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      181,
+      172
+    ],
+    "sha256": "c005cdf03c4bf7de75838c4c281b4779e874f97ed86ec993c1dec519801b6d55",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  },
+  {
+    "key": "wakaba",
+    "file": "wakaba.webp",
+    "catalog_printed_page": 34,
+    "catalog_pdf_page": 36,
+    "source": "総合カタログ2026.pdf (いすゞ製作所提供)",
+    "pixel_dimensions": [
+      198,
+      265
+    ],
+    "sha256": "702c617979c50516f4328c6a22a5ee40476af56c199e817aa70b12aed2a740e4",
+    "rights": "社内レビュー用。新サイトでの表示・再掲載は顧客確認待ち"
+  }
+]

@@ -1,0 +1,8 @@
+/* A33: TOP custom section clarity and navigation */
+.a33-benefits{list-style:none;padding:0;margin:1.15rem 0 1.4rem;display:grid;gap:.48rem}
+.a33-benefits li{position:relative;padding-left:1.25rem;line-height:1.65;color:#e5eff1;font-size:clamp(.9rem,1vw,1.02rem)}
+.a33-benefits li::before{content:"✓";position:absolute;left:0;color:#a6d8c5;font-weight:700}
+.feature-dark-copy .btn.btn-outline-white,.feature-dark-copy .a33-feature-secondary{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:.7rem 1.1rem;margin:.4rem .5rem .4rem 0;border:1px solid rgba(255,255,255,.8);border-radius:4px;text-decoration:none;line-height:1.4;transition:background .2s,color .2s}
+.feature-dark-copy .a33-feature-secondary{background:transparent;color:#fff}
+.feature-dark-copy .a33-feature-secondary:hover{background:#fff;color:#12212d}
+@media(max-width:640px){.feature-dark-copy .btn.btn-outline-white,.feature-dark-copy .a33-feature-secondary{display:flex;width:100%;margin:.45rem 0}}

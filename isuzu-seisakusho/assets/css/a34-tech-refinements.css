@@ -1,0 +1,21 @@
+/* A34: technology/quality page scoped improvements */
+.page-tech .a34-inline-link{display:inline-flex;align-self:flex-start;margin-top:16px;color:#22644f;font-size:13px;font-weight:750;text-underline-offset:4px;text-decoration:underline}
+.page-tech .a34-inline-link:hover{color:#0d3f31}
+.page-tech .a32-quality-grid article{padding:0;overflow:hidden;min-height:0;display:flex;flex-direction:column}
+.page-tech .a34-quality-photo{height:205px;background:#e5ede8;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.page-tech .a34-quality-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.page-tech .a32-quality-grid article:last-child .a34-quality-photo{background:#f9faf9;border-bottom:1px solid #e1e8e5}
+.page-tech .a32-quality-grid article:last-child .a34-quality-photo img{object-fit:contain;max-width:52%;max-height:130px}
+.page-tech .a34-quality-content{padding:25px 26px 31px;flex:1}
+.page-tech .a34-quality-content>span{font-size:10px;font-weight:800;letter-spacing:.14em;color:#558274}
+.page-tech .a34-quality-content h3{margin:15px 0 10px}
+.page-tech section.a34-contact-cta{background:linear-gradient(118deg,#10382f 0%,#165944 65%,#1b7056 100%)!important;color:white!important;border:0!important;border-top:6px solid #b5d4c5!important;padding:75px 0 82px;position:relative;overflow:hidden}
+.page-tech section.a34-contact-cta:after{content:'CONTACT';position:absolute;right:-18px;bottom:-70px;font-size:clamp(110px,18vw,250px);font-weight:900;letter-spacing:-.06em;color:rgba(255,255,255,.045);pointer-events:none}
+.page-tech section.a34-contact-cta h2{color:white!important;font-size:clamp(28px,3vw,40px);max-width:660px;line-height:1.4}
+.page-tech section.a34-contact-cta p{color:#e1eee8!important;max-width:650px;font-size:15px;line-height:1.8}
+.page-tech section.a34-contact-cta .eyebrow-white{color:#bce2d0!important;letter-spacing:.13em}
+.page-tech section.a34-contact-cta .btn{position:relative;z-index:2;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;background:#fff!important;color:#114333!important;border:2px solid #fff!important;padding:19px 24px;font-size:14px;font-weight:800;box-shadow:0 12px 25px #001c1330}
+.page-tech section.a34-contact-cta .btn:hover{background:#e7f3ec!important;color:#0a3a2b!important}
+.page-tech .a32-related-links a{display:inline-flex;align-items:center;justify-content:center}
+@media(max-width:900px){.page-tech section.a34-contact-cta .cta-band-inner{flex-direction:column;align-items:flex-start}}
+@media(max-width:620px){.page-tech .a34-quality-photo{height:200px}.page-tech section.a34-contact-cta{padding:57px 0 65px}.page-tech section.a34-contact-cta .cta-band-inner>a{display:flex;width:100%;margin-top:25px;text-align:center}.page-tech .a34-quality-content{padding:23px}}
